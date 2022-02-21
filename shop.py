@@ -10,8 +10,8 @@ class customer:
         self.total = 0
 
 class smart:
-    def __init__(self,clist):
-        smart.clist = clist
+    def __init__(self,cust):
+        smart.cust = cust
 
 
 
